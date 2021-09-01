@@ -11,7 +11,7 @@ int main()
 {
     int a, b, temp;
     scanf("%d%d", &a, &b);
-
+temp=
     //Write your code here
     
     
